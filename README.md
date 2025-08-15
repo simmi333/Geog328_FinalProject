@@ -37,5 +37,4 @@ Europe Carbon Emissions (2023)
 - **Turf.js**: For geospatial analysis (e.g., calculating centroids).
 
 ## Group Members
-Jordan, Simran, John, Sonny, Brandon
-jordanchiang627, simmi333, tnxtg, sonnydo, bbui37
+Jordan (jordanchiang627), Simran(simmi333), John (tnxtg), Sonny (sonnydo), Brandon (bbui37)
