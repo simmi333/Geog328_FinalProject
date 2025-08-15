@@ -13,7 +13,7 @@ The primary goal of this project is to deliver a clear and interactive visualiza
 https://jordanchiang627.github.io/Geog328_FinalProject/
 
 ## Screenshots
-![1950 Carbon Emissions in Europe](screenshot1_finalproject.png)
+![1950 Carbon Emissions in Europe](screenshot1_finalproject1.png)
 Europe Carbon Emission (1950)
 ![2023 Carbon Emissions in Europe](screenshot1_finalproject2.png)
 Europe Carbon Emissions (2023)
