@@ -35,3 +35,7 @@ Europe Carbon Emissions (2023)
 - **Excel**: For initial data cleaning and preparation.
 - **HTML/CSS/JavaScript**: For building the front-end interface.
 - **Turf.js**: For geospatial analysis (e.g., calculating centroids).
+
+## Group Members
+Jordan, Simran, John, Sonny, Brandon
+jordanchiang627, simmi333, tnxtg, sonnydo, bbui37
